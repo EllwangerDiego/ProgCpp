@@ -1,0 +1,4 @@
+Nome: Pedro
+Idade: 25
+A
+Exemplo

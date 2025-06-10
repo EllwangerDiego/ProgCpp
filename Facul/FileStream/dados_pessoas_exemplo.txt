@@ -1,0 +1,3 @@
+Pedro Silva	25	1.76
+Maria Pereira	23	1.69
+João Costa	30	1.82

@@ -1,3 +1,4 @@
+//Formatar: Shift + Alt + F
 #include <iostream>
 using namespace std;
 // Passar algo para uma funcao como valor, nao modifica o valor original, ele cria uma copia

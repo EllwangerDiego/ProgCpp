@@ -16,7 +16,7 @@ using namespace std;
         }
             //Getter - Readable
             int getTemperature(){
-                return temperature;
+                return this->temperature;
             };
             //Setter - Writeable
             void setTemperature(int temperature){

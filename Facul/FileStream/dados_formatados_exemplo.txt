@@ -1,0 +1,3 @@
+Nome: Pedro Silva | Idade: 25 | Altura: 1.76
+Nome: Maria Pereira | Idade: 23 | Altura: 1.69
+Nome: João Costa | Idade: 30 | Altura: 1.82

@@ -20,6 +20,7 @@ int main() {
 
     //Remove elemento do final: 
     v1.pop_back();
+    //v1.pop_front();
     v1.shrink_to_fit();
 
     //Insere elementos em qualquer posição:
