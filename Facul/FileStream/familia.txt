@@ -1,0 +1,4 @@
+nome;sexo;idade;altura
+Pedro;M;42;1.76
+Maria;F;39;1.63
+Roberto;M;11;1.49
