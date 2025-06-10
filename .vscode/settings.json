@@ -3,7 +3,10 @@
         "ostream": "cpp",
         "iostream": "cpp",
         "iomanip": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "istream": "cpp"
     },
     "github.copilot.enable": {
         "*": false,
