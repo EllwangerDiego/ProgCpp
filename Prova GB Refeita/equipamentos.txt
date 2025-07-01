@@ -1,0 +1,4 @@
+nome	mes_aquisicao	ano_aquisicao	idade	status
+Monitor	3	2022	40	atualizar
+PC	2	2020	65	substituir
+Mouse	8	2024	11	em dia

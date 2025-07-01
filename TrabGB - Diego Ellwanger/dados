@@ -1,0 +1,11 @@
+DataHora	Codigo	Mensagem	Classificacao	Prioridade	Protocolo	OrigemIP	OrigemPorta	DestinoIP	DestinoPorta
+2025-03-01 14:35:35	1:498:6	 ATTACK-RESPONSES id check returned root 	Potentially Bad Traffic	2	TCP	195.47.220.2	6667	11.11.79.67	4483
+2025-03-01 14:35:35	1:498:6	 ATTACK-RESPONSES id check returned root 	Potentially Bad Traffic	2	TCP	195.47.220.2	6667	11.11.79.67	4075
+2025-03-01 14:35:35	1:498:6	 ATTACK-RESPONSES id check returned root 	Potentially Bad Traffic	2	TCP	66.198.160.2	8888	11.11.79.67	4944
+
+# Total de registros exportados: 3
+# Filtros aplicados:
+# Campo: mensagem | Valor1: root
+# Campo: prioridade | Valor1: 2
+# Campo: origemPorta | Valor1: 4000 | Valor2: 10000
+# Campo: destinoIP | Valor1: 11.11.79.67

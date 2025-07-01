@@ -1,0 +1,3 @@
+codigo	fabricante	modelo	ano	cor	motor	preco
+101	Toyota	Corolla	2020	Preto	2	90000	
+103	Ford	Focus	2018	Azul	2	70000	
