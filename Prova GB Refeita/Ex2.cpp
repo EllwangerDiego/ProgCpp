@@ -4,8 +4,7 @@
 implementado em diferentes linguagens de programação. Durante os testes, foram registradas diversas
 métricas em um arquivo no formato CSV, como: uso de cpu, memória e tempo de execução, além da quantidade
 de linhas de código necessárias para implementar o algoritmo em cada uma das linguagens. O desempenho
-geral foi calculado através da fórmula: desempenho = 106
- / (cpu * 100 + memória + tempo + linhas). Com base
+geral foi calculado através da fórmula: desempenho = 106 / (cpu * 100 + memória + tempo + linhas). Com base
 nesses dados, crie a classe “Linguagem” que represente as linguagens com seus respectivos atributos e
 métodos. No “main”, leia o arquivo CSV contendo os dados obtidos no benchmark, converta cada linha do
 arquivo em um objeto e os armazene em um vector. Em seguida, analise os objetos armazenados no vector e

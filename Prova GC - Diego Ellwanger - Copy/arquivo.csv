@@ -1,0 +1,10 @@
+ativo,probabilidade,impacto
+Servidor Windows 2003 Web,0.002,0.95
+Microsoft Office Word,0.02,0.18
+Microsoft Office Excel,0.03,0.15
+Microsoft Office Outlook,0.04,0.23
+WordPress,0.10,0.50
+Servidor Linux Debian Proxy,0.0001,0.70
+Microsoft Edge,0.30,0.10
+Google Chrome,0.25,0.10
+Mozilla Firefox,0.27,0.10
